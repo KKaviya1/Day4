@@ -1,0 +1,8 @@
+F:\Day - 4\two dim  array1\two dim  array1\obj\Debug\two dim  array1.csproj.AssemblyReference.cache
+F:\Day - 4\two dim  array1\two dim  array1\obj\Debug\two dim  array1.csproj.SuggestedBindingRedirects.cache
+F:\Day - 4\two dim  array1\two dim  array1\obj\Debug\two dim  array1.csproj.CoreCompileInputs.cache
+F:\Day - 4\two dim  array1\two dim  array1\bin\Debug\two dim  array1.exe.config
+F:\Day - 4\two dim  array1\two dim  array1\bin\Debug\two dim  array1.exe
+F:\Day - 4\two dim  array1\two dim  array1\bin\Debug\two dim  array1.pdb
+F:\Day - 4\two dim  array1\two dim  array1\obj\Debug\two dim  array1.exe
+F:\Day - 4\two dim  array1\two dim  array1\obj\Debug\two dim  array1.pdb

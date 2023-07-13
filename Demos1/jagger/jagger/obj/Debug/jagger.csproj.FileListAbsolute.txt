@@ -1,0 +1,8 @@
+F:\Day - 4\jagger\jagger\bin\Debug\jagger.exe.config
+F:\Day - 4\jagger\jagger\bin\Debug\jagger.exe
+F:\Day - 4\jagger\jagger\bin\Debug\jagger.pdb
+F:\Day - 4\jagger\jagger\obj\Debug\jagger.csproj.AssemblyReference.cache
+F:\Day - 4\jagger\jagger\obj\Debug\jagger.csproj.SuggestedBindingRedirects.cache
+F:\Day - 4\jagger\jagger\obj\Debug\jagger.csproj.CoreCompileInputs.cache
+F:\Day - 4\jagger\jagger\obj\Debug\jagger.exe
+F:\Day - 4\jagger\jagger\obj\Debug\jagger.pdb
