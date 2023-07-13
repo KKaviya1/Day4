@@ -1,0 +1,8 @@
+F:\Day - 4\Assgn-P1\Assgn-P1\bin\Debug\Assgn-P1.exe.config
+F:\Day - 4\Assgn-P1\Assgn-P1\bin\Debug\Assgn-P1.exe
+F:\Day - 4\Assgn-P1\Assgn-P1\bin\Debug\Assgn-P1.pdb
+F:\Day - 4\Assgn-P1\Assgn-P1\obj\Debug\Assgn-P1.csproj.AssemblyReference.cache
+F:\Day - 4\Assgn-P1\Assgn-P1\obj\Debug\Assgn-P1.csproj.SuggestedBindingRedirects.cache
+F:\Day - 4\Assgn-P1\Assgn-P1\obj\Debug\Assgn-P1.csproj.CoreCompileInputs.cache
+F:\Day - 4\Assgn-P1\Assgn-P1\obj\Debug\Assgn-P1.exe
+F:\Day - 4\Assgn-P1\Assgn-P1\obj\Debug\Assgn-P1.pdb
