@@ -1,0 +1,8 @@
+F:\Day - 4\Array1\Array1\bin\Debug\Array1.exe.config
+F:\Day - 4\Array1\Array1\bin\Debug\Array1.exe
+F:\Day - 4\Array1\Array1\bin\Debug\Array1.pdb
+F:\Day - 4\Array1\Array1\obj\Debug\Array1.csproj.AssemblyReference.cache
+F:\Day - 4\Array1\Array1\obj\Debug\Array1.csproj.SuggestedBindingRedirects.cache
+F:\Day - 4\Array1\Array1\obj\Debug\Array1.csproj.CoreCompileInputs.cache
+F:\Day - 4\Array1\Array1\obj\Debug\Array1.exe
+F:\Day - 4\Array1\Array1\obj\Debug\Array1.pdb

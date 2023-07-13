@@ -1,0 +1,8 @@
+F:\Day - 4\foreach\foreach\bin\Debug\@foreach.exe.config
+F:\Day - 4\foreach\foreach\bin\Debug\@foreach.exe
+F:\Day - 4\foreach\foreach\bin\Debug\@foreach.pdb
+F:\Day - 4\foreach\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+F:\Day - 4\foreach\foreach\obj\Debug\foreach.csproj.SuggestedBindingRedirects.cache
+F:\Day - 4\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+F:\Day - 4\foreach\foreach\obj\Debug\@foreach.exe
+F:\Day - 4\foreach\foreach\obj\Debug\@foreach.pdb

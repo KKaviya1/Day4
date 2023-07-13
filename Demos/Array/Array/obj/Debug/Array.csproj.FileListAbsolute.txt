@@ -1,0 +1,8 @@
+F:\Day - 4\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+F:\Day - 4\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+F:\Day - 4\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+F:\Day - 4\Array\Array\bin\Debug\Array.exe.config
+F:\Day - 4\Array\Array\bin\Debug\Array.exe
+F:\Day - 4\Array\Array\bin\Debug\Array.pdb
+F:\Day - 4\Array\Array\obj\Debug\Array.exe
+F:\Day - 4\Array\Array\obj\Debug\Array.pdb
