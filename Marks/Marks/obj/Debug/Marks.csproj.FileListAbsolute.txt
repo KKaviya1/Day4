@@ -1,8 +1,0 @@
-F:\Day - 4\Marks\Marks\bin\Debug\Marks.exe.config
-F:\Day - 4\Marks\Marks\bin\Debug\Marks.exe
-F:\Day - 4\Marks\Marks\bin\Debug\Marks.pdb
-F:\Day - 4\Marks\Marks\obj\Debug\Marks.csproj.AssemblyReference.cache
-F:\Day - 4\Marks\Marks\obj\Debug\Marks.csproj.SuggestedBindingRedirects.cache
-F:\Day - 4\Marks\Marks\obj\Debug\Marks.csproj.CoreCompileInputs.cache
-F:\Day - 4\Marks\Marks\obj\Debug\Marks.exe
-F:\Day - 4\Marks\Marks\obj\Debug\Marks.pdb
